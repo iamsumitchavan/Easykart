@@ -1,0 +1,22 @@
+#page1 {
+
+    background-color: aqua;
+}
+#page {
+
+    background-color: aqua;
+}
+#demo {
+
+    display: flex;
+    
+}
+#mix {
+
+    display: flex;
+    flex-direction: column;
+    margin: 60px;
+    height:100vh;
+    background-color: blanchedalmond;
+    width: 50vh;
+}

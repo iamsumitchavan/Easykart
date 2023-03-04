@@ -1,0 +1,22 @@
+#img {
+
+    height: 300px;
+    width:  300px;
+}
+
+#demo {
+
+    display: flex;
+}
+
+#main {
+
+    color: black;
+}
+#inp {
+
+    margin: 40px;
+    
+    padding: 10px;
+    width: 300px;
+}
